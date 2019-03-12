@@ -18,8 +18,12 @@ User Profile page for Fan of Music Artist
 ### Artist Profile
 Detailed page of Music Artist
 ### Show/Display Concert
+Displays all concerts of all Music Artists
 ### Show/Display Concert Full Details
+Displays concert details in full for specific Music Artist
 ### Show/Display Concert Payment Screen
+Displays payment screen to Fan of Music Artist to perform payment
 ### Show/Display Concert Payment Confirmation
+Displays payment confirmation screen to Fan of Music Artist
 
 
