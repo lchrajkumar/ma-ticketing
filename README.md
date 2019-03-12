@@ -6,7 +6,7 @@ This branch will have the UI Design of MATP App, built upon React Native.
 
 ## SCREENS
 ### Homepage
-- [ ] Displays All Music Artists with a pic, short bio.
+- [x] Displays All Music Artists with a pic, short bio.
 ### Login
 - [ ] Login page for Fan of Music Artist
 ### SignUp
@@ -16,7 +16,7 @@ This branch will have the UI Design of MATP App, built upon React Native.
 ### User Profile
 - [ ] User Profile page for Fan of Music Artist
 ### Artist Profile
-- [ ] Detailed page of Music Artist
+- [x] Detailed page of Music Artist
 ### Show/Display Concert
 - [ ] Displays all concerts of all Music Artists
 ### Show/Display Concert Full Details
