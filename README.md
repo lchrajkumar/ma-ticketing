@@ -21,9 +21,9 @@ This branch will have the UI Design of MATP App, built upon React Native.
 ### Artist Profile
 - [x] Detailed page of Music Artist
 ### Show/Display Concert
-- [ ] Displays all concerts of specific Music Artist
+- [x] Displays all concerts of specific Music Artist
 ### Show/Display Concert Full Details
-- [ ] Displays concert details in full for specific Music Artist
+- [x] Displays concert details in full for specific Music Artist
 ### Show/Display Concert Payment Screen
 - [ ] Displays payment screen to Fan of Music Artist to perform payment
 ### Show/Display Concert Payment Confirmation
