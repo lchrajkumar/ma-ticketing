@@ -15,7 +15,8 @@ This branch will have the UI Design of MATP App, built upon React Native.
 ### Forgot Password
 - [ ] Forgot page for Fan of Music Artist
 ### User Profile
-- [ ] User Profile page for Fan of Music Artist
+- [x] User Profile page for Fan of Music Artist
+* - [x] Display basic info of user
 ### Artist Profile
 - [x] Detailed page of Music Artist
 ### Show/Display Concert
