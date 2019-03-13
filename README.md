@@ -13,6 +13,7 @@ This branch will have the UI Design of MATP App, built upon React Native.
 > Actually not required because we will implement external API based authentication
 - [x] SignUp page for Fan of Music Artist
 ### Forgot Password
+> Will be done once back-end is initiated
 - [ ] Forgot page for Fan of Music Artist
 ### User Profile
 - [x] User Profile page for Fan of Music Artist
